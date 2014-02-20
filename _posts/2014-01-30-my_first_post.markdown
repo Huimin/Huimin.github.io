@@ -3,6 +3,7 @@ layout: post
 title:  "Don’t be misled by your A/B testing - Part 1"
 date:   2014-01-29 17:02:08
 categories: jekyll update
+comments: true
 ---
 
 ## Isn’t A/B testing just “40% is better than 30%”? ##
